@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Tanelo",
+    "apellido": "Mondaca",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Rojas",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Bernabé",
+    "apellido": "Otárola",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Eleazar",
+    "apellido": "Sasaki",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Enrique",
+    "apellido": "Neira",
+    "predicador": 0,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Jacob",
+    "apellido": "Gallardo",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Jaime",
+    "apellido": "Ríos",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Jovino",
+    "apellido": "Gallardo",
+    "predicador": 1,
+    "coordinador": 0
+  },
+  {
+    "nombre": "Juan Carlos",
+    "apellido": "Méndez",
+    "predicador": 1,
+    "coordinador": 1
+  },
+  {
+    "nombre": "Katsumi",
+    "apellido": "Sasaki",
+    "predicador": 1,
+    "coordinador": 0
+  }
+]
